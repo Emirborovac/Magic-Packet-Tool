@@ -1,0 +1,9 @@
+X:/MagicPacketTool/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/MagicPacketTool.dir
+X:/MagicPacketTool/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+X:/MagicPacketTool/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+X:/MagicPacketTool/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+X:/MagicPacketTool/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/install.dir
+X:/MagicPacketTool/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+X:/MagicPacketTool/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+X:/MagicPacketTool/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/MagicPacketTool_autogen_timestamp_deps.dir
+X:/MagicPacketTool/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/MagicPacketTool_autogen.dir
